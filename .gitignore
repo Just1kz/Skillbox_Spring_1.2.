@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+.idea
+skillbox_1.2.iml
